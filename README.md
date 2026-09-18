@@ -33,8 +33,8 @@ YouTube желісінен видеоның қажетті үзіндісін ж
 
 1. Репозиторийді көшіріп алыңыз:
    ```bash
-   git clone [https://github.com/](https://github.com/)<сіздің-юзернейм>/<репозиторий>.git
-   cd <репозиторий>
+   git clone https://github.com/KiraiOne/SmartDownYT.git
+   cd SmartDownYT
 
 ```
 
