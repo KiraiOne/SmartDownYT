@@ -35,9 +35,8 @@ YouTube желісінен видеоның қажетті үзіндісін ж
    ```bash
    git clone https://github.com/KiraiOne/SmartDownYT.git
    cd SmartDownYT
-
 ```
-
+```
 2. Қажетті тәуелділіктерді орнатыңыз:
 ```bash
 pip install -r requirements.txt
